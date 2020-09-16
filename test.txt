@@ -1,0 +1,16 @@
+###
+text editor test
+###
+  - get banana
+  - get banana
+  - get banana
+  - get apple
+  - get apple
+  - get apple
+  - get apple
+  - get apple
+  - get date
+  - get citron
+  - get citron
+  - get citron
+###
