@@ -14,3 +14,11 @@ text editor test
   - get citron
   - get citron
 ###
+
+###
+dirty-file-test-completed: 2020-09-17 15:06:09
+###
+added inside vs-code
+###
+added outside vs-code
+###
