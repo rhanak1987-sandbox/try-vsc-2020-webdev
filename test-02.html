@@ -7,21 +7,36 @@
 
 
     <style>
-        div {
+        div.box1 {
             background-color: yellow;
             width: 600px;
-            height: 400px;
+            height: 200px;
+        }
+        .box2 {
+            background-color: pink;
+            width: 400px;
+            height: 150px;
+        }
+        .highlight-text {
+            color: dimgray;
+            font-size: 30px;
         }
     </style>
 
 
 </head>
 <body>
-    <div>
-        <p>First Box</p>
+    <div class="box1">
+        <p class="highlight-text">First Box</p>
     </div>
-    <div>
-        <p>Second Box</p>
+    <span class="box1">
+        <p class="box1">alma</p>
+    </span>
+    <div class="box2">
+        <p class="highlight-text">Second Box</p>
     </div>
+    <span class="box2">
+        <p class="box2">birs</p>
+    </span>
 </body>
 </html>
