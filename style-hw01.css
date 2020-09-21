@@ -1,0 +1,10 @@
+div.outer-box {
+    background-color: gray;
+    width: 680px;
+    height: 500px;
+}
+div.inner-box {
+    background-color: yellow;
+    width: 450px;
+    height: 300px;
+}
