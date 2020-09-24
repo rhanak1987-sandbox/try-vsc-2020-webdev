@@ -1,10 +1,25 @@
-h1 {
-    color: brown;
-    font-size: 100px;
+div.main-box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
 }
-h2 {
-    color: red;
+
+header {
+    background-color: blue;
+    height: 118px;
 }
-h3 {
-    color: blue;
+
+nav {
+    background-color: red;
+    height: 40px;
+}
+
+main {
+    background-color: orange;
+    height: 400px;
+}
+
+footer {
+    background-color: greenyellow;
+    height: 100px;
 }
