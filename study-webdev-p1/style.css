@@ -1,5 +1,5 @@
 body {
-    background-color: #A5A2A1;
+    background-color: #606359;
 }
 
 div.main-box {
@@ -9,8 +9,9 @@ div.main-box {
 }
 
 header {
-    background-color: #DAAB97;
+    /*background-color: #DAAB97;*/
     text-align: center;
+    color: white;
 }
 
 nav {
@@ -19,11 +20,28 @@ nav {
 }
 
 main {
-    background-color: #F6F9EF;
-    height: 400px;
+    /*background-color: #A5A2A1;*/
+    /*height: 400px;*/
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 60px;
 }
 
 footer {
     background-color: #C84169;
     height: 100px;
+}
+
+h1 {
+    font-size: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F6F9EF;
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F6F9EF;
 }
