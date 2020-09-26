@@ -25,7 +25,7 @@ header {
 
 nav {
     /*background-color: #2A223D;*/
-    background-color: #781F0E;
+    background-color: #78200e60;
     height: 40px;
 }
 
@@ -49,7 +49,7 @@ h1 {
     font-size: 84px;
     font-family: Arial, Helvetica, sans-serif;
     /*color: #F6F9EF;*/
-    color: #EADBC1;
+    color: #eadbc180;
 }
 
 p {
