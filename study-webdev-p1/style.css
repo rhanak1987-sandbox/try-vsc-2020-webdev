@@ -43,8 +43,12 @@ main {
 
 footer {
     /*background-color: #C84169;*/
-    background-color: #7D9A50;
-    height: 100px;
+    background-color: #7c9a50a0;
+    padding-top: 44px;
+    padding-bottom: 44px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
 h1 {
@@ -72,4 +76,8 @@ nav a {
     font-size: 14px;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+footer p {
+    font-size: 14px;
 }
