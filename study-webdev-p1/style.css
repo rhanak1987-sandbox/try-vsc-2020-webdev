@@ -67,7 +67,7 @@ p {
 a {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    color: yellow;
+    color: white;
     /* text-decoration: none; */
 }
 
@@ -80,4 +80,5 @@ nav a {
 
 footer p {
     font-size: 14px;
+    color: #EADBC1;
 }
