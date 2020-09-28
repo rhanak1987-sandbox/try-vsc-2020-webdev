@@ -9,6 +9,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
 }
 
 div.main-box {
@@ -20,6 +21,10 @@ div.main-box {
 header {
     /*background-color: #DAAB97;*/
     text-align: center;
+}
+
+header p {
+    font-size: 14px;
     color: #7D848A;
 }
 
@@ -36,9 +41,12 @@ main {
     /*height: 400px;*/
     text-align: center;
     padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+main p {
     padding-left: 120px;
     padding-right: 120px;
-    padding-bottom: 60px;
 }
 
 footer {
@@ -80,5 +88,4 @@ nav a {
 
 footer p {
     font-size: 14px;
-    color: #EADBC1;
 }
