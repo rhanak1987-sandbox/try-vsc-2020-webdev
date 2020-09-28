@@ -3,7 +3,7 @@ This is a personal test repo for self study and experiments.
 
 ## about
 try vs-code | test repo (for) study webdev
- * [free-beginner-web](https://www.youtube.com/watch?v=C5QFHp1oAws) | 3h:57 | partially
+ * [free-beginner-web](https://www.youtube.com/watch?v=C5QFHp1oAws) | 3h:57 | finished
 
 ## tech stack
  * git, html5, css3
