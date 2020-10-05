@@ -11,4 +11,9 @@ try vs-code | test repo (for) study webdev
  * vs-code: for this particular guide
    * but anyway, [other decent text editors] might do it as well
 
+## Legal
+* See the [main License of this repo](./LICENSE)
+* Please check out the [general notes and warnings](https://github.com/rhanak1987-sandbox/hello-world/blob/master/_possible-license-concerns.md) and use it as a guideline, as if the file was placed into this project
+* Please use common sense, act with good intentions AND due diligence
+
 ###### fin
