@@ -4,6 +4,12 @@
   <meta charset="UTF-8">
   <meta name="description"
     content="see: HTML Full Course - Build a Website Tutorial">
+  <style>
+    td {
+      border-style: solid;
+      border-color: white;
+    }
+  </style>
   <title>Test Website | Tutorial N+1</title>
 </head>
 <body style="background-color: lightgoldenrodyellow;">
@@ -49,14 +55,53 @@
       </ol>
       <dl>
         <dt>Apples</dt>
-          <dd>This is a fruit</dd>
-          <dd>Mostly red or green</dd>
+        <dd>This is a fruit</dd>
+        <dd>Mostly red or green</dd>
+
         <dt>Banana</dt>
-          <dd>This is a fruit</dd>
-          <dd>They are yellow</dd>
+        <dd>This is a fruit</dd>
+        <dd>They are yellow</dd>
       </dl>
     </li>
   </ul>
+
+  <!-- tables -->
+  <table>
+    <tr>one entry</tr>
+  </table>
+
+  <table style="background-color: lightsalmon; border-style: solid;">
+    <thead>
+      <caption><h2>Not much to say</h2></caption>
+      <tr>
+        <th>TH - 1</th>
+        <th>TH - 2</th>
+        <th>TH - 3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="3">one</td>
+        <td>two</td>
+        <td>three</td>
+        <td>one another</td>
+      </tr>
+      <tr>
+        <td>one one</td>
+        <td>two two</td>
+        <td>three three</td>
+      </tr>
+      <tr>
+        <td>one one</td>
+        <td rowspan="2">two more</td>
+        <td>three three</td>
+      </tr>
+      <tr>
+        <td>one one</td>
+        <td>three three</td>
+      </tr>
+    </tbody>
+  </table>
 
   <!-- line break tests -->
   <hr><hr>
