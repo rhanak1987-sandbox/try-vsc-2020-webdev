@@ -20,6 +20,12 @@
 
         h2 {
             font-family: Lobster, monospace;
+            /*
+            background-color: blue;
+            border-color: red;
+            border-width: 5px;
+            border-style: solid;
+            */
         }
 
         /* class selector */
@@ -27,7 +33,29 @@
             color: cornsilk;
             background-color: indigo;
         }
+
+        .fix-width-img {
+            width: 300px;
+        }
+
+        .thick-green-border {
+            border-color: green;
+            border-width: 10px;
+            border-style: solid;
+            /* border-radius: 10px; */
+            border-radius: 50%;
+        }
+
+        .silver-background {
+            background-color: silver;
+        }
     </style>
+
+    <!-- resize, border, bg -->
+    <img src="https://rhanak1987-sandbox.github.io/showcases/2020-09-static-site-basics/img/logo-restaurant-new.jpg"
+        class="fix-width-img thick-green-border" alt="">
+    <div style="width: 100px; height: 100px;"
+        class="silver-background"></div>
 
     <!-- inline style -->
     <h2 style="color: red;">CSS Full Course - Includes Flexbox and CSS Grid Tutorials</h2>
