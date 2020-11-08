@@ -5,20 +5,24 @@
 ⌨️ (0:02:33) Use CSS Selectors to Style Elements
 ⌨️ (0:04:33) Use a CSS Class to Style an Element
 ⌨️ (0:06:10) Style Multiple Elements with a CSS Class
+
 2. font
 ⌨️ (0:06:59) Change the Font Size of an Element
 ⌨️ (0:08:10) Set the Font Family of an Element
 ⌨️ (0:08:52) Import a Google Font
 ⌨️ (0:10:11) Specify How Fonts Should Degrade
+
 3. img & bg
 ⌨️ (0:11:55) Size Your Images
 ⌨️ (0:13:19) Add Borders Around Your Elements
 ⌨️ (0:14:55) Add Rounded Corners with border-radius
 ⌨️ (0:15:24) Make Circular Images with a border-
 ⌨️ (0:15:55) Give a Background Color to a div Element
+
 4. id
 ⌨️ (0:16:58) Set the id of an Element
 ⌨️ (0:17:47) Use an id Attribute to Style an Element
+
 5. box
 ⌨️ (0:19:34) Adjust the Padding of an Element
 ⌨️ (0:20:36) Adjust the Margin of an Element
@@ -27,23 +31,27 @@
 ⌨️ (0:22:26) Add Different Margins to Each Side of an Element
 ⌨️ (0:23:01) Use Clockwise Notation to Specify the Padding of an Element
 ⌨️ (0:24:15) Use Clockwise Notation to Specify the Margin of an Element
-6. more selectors & styles
+
+6. Attribute Selectors & Relative Units
 ⌨️ (0:25:08) Use Attribute Selectors to Style Elements
 ⌨️ (0:27:29) Understand Absolute versus Relative Units
-⌨️ (0:28:53) Style the HTML Body Element
+
 7. cascade
+⌨️ (0:28:53) Style the HTML Body Element
 ⌨️ (0:29:34) Inherit Styles from the Body Element
 ⌨️ (0:30:54) Prioritize One Style Over Another
 ⌨️ (0:32:11) Override Styles in Subsequent CSS
 ⌨️ (0:33:24) Override Class Declarations by Styling ID Attributes
 ⌨️ (0:34:59) Override Class Declarations with Inline Styles
 ⌨️ (0:35:35) Override All Other Styles by using Important
+
 8. color
 ⌨️ (0:36:28) Use Hex Code for Specific Colors
 ⌨️ (0:37:19) Use Hex Code to Mix Colors
 ⌨️ (0:38:20) Use Abbreviated Hex Code
 ⌨️ (0:39:22) Use RGB values to Color Elements
 ⌨️ (0:40:05) Use RGB to Mix Colors
+
 9. css variable
 ⌨️ (0:41:38) Use CSS Variables to change several elements at once
 ⌨️ (0:42:54) Create a custom CSS Variable
@@ -52,6 +60,7 @@
 ⌨️ (0:45:25) Cascading CSS variables
 ⌨️ (0:46:44) Change a variable for a specific area
 ⌨️ (0:47:08) Use a media query to change a variable
+
 10. grid
 ⌨️ (0:48:06) Create Your First CSS Grid
 ⌨️ (0:48:49) Add Columns with grid-template-columns
@@ -62,6 +71,7 @@
 ⌨️ (0:53:38) Add Gaps Faster with grid-gap
 ⌨️ (0:54:26) Use grid-column to Control Spacing
 ⌨️ (0:55:59) Use grid-row to Control Spacing
+
 11. align & area
 ⌨️ (0:56:43) Align an Item Horizontally using justify-self
 ⌨️ (0:57:33) Align an Item Vertically using align-self
@@ -70,14 +80,17 @@
 ⌨️ (0:58:58) Divide the Grid Into an Area Template
 ⌨️ (0:59:59) Place Items in Grid Areas Using the grid-area Property
 ⌨️ (1:01:00) Use grid-area Without Creating an Areas Template
+
 12. functions & fitting
 ⌨️ (1:02:43) Reduce Repetition Using the repeat Function
 ⌨️ (1:04:51) Limit Item Size Using the minmax Function
 ⌨️ (1:05:47) Create Flexible Layouts Using auto-fill
 ⌨️ (1:06:39) Create Flexible Layouts Using auto-fit
+
 13. responsive & nested layout
 ⌨️ (1:07:32) Use Media Queries to Create Responsive Layouts
 ⌨️ (1:09:05) Create Grids within Grids
+
 14. flex pos & dir
 ⌨️ (1:09:49) Use display: flex to Position Two Boxes
 ⌨️ (1:10:20) Add Flex Superpowers to the Tweet Embed
@@ -85,11 +98,13 @@
 ⌨️ (1:11:54) Apply the flex-direction Property to Create Rows in the Tweet Embed
 ⌨️ (1:12:39) Use the flex-direction Property to Make a Column
 ⌨️ (1:13:06) Apply the flex-direction Property to Create a Column in the Tweet Embed
+
 15. flex align
 ⌨️ (1:13:44) Align Elements Using the justify-content Property
 ⌨️ (1:15:49) Use the justify-content Property in the Tweet Embed
 ⌨️ (1:16:33) Align Elements Using the align-items Property
 ⌨️ (1:18:00) Use the align-items Property in the Tweet Embed
+
 16. flex other settings
 ⌨️ (1:18:42) Use the flex-wrap Property to Wrap a Row or Column
 ⌨️ (1:19:21) Use the flex-shrink Property to Shrink Items
