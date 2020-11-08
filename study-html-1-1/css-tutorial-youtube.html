@@ -58,6 +58,36 @@
         #id-selector-p {
             color: cadetblue;
         }
+
+        #box-ext {
+            background-color: lightblue;
+        }
+
+        #box-int-1 {
+            width: 200px;
+            height: 200px;
+
+            border: 10px;
+            padding: 50px;
+            margin: 100px;
+
+            background-color: lightsalmon;
+            border-color: green;
+            border-style: solid;
+        }
+
+        #box-int-2 {
+            width: 200px;
+            height: 200px;
+
+            border: 10px;
+            padding: 50px;
+            margin: -25px;
+
+            background-color: lightsalmon;
+            border-color: green;
+            border-style: solid;
+        }        
     </style>
 
     <!-- resize, border, bg -->
@@ -79,5 +109,21 @@
     <!-- id -->
     <h2 id="id-selector-h">ID selector</h2>
     <p class="come-to-the-dark-theme" id="id-selector-p">mix id and class selectors</p>
+
+    <!-- box modell -->
+    <p>paragraph</p>
+    <div id="box-ext">
+        <p>paragraph</p>
+        <div id="box-int-1"><p>paragraph</p></div>
+        <p>paragraph</p>
+        <div id="box-int-2"><p>paragraph</p></div>
+        <p>paragraph</p>
+    </div>
+    <p>paragraph</p>
+    <!-- clockwise notation
+            | 1. top |
+        | 4.left | 2. right |
+            | 3. bottom |
+    -->
 </body>
 </html>
