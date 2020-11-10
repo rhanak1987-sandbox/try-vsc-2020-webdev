@@ -12,10 +12,8 @@
         
     <!-- style block -->
     <style>
-        p {
-            color: blue;
-            font-size: 42px;
-            font-family: monospace;
+        body {
+            background-color: seashell;
         }
 
         h2 {
@@ -26,6 +24,12 @@
             border-width: 5px;
             border-style: solid;
             */
+        }
+
+        p {
+            color: blue;
+            font-size: 42px;
+            font-family: monospace;
         }
 
         /* class selector */
@@ -89,6 +93,13 @@
             border-style: solid;
         }
 
+        #rel {
+            background-color: red;
+            /* width: 5em;
+            height: 4em; */
+            padding: 1em;
+        }
+
         [alt='can-style-this'] {
             width: 500px;
             border-width: 10px;
@@ -136,5 +147,12 @@
         | 4.left | 2. right |
             | 3. bottom |
     -->
+
+    <!-- relative -->
+    <p>paragraph</p>
+    <div id="rel">
+        <p>paragraph</p>
+    </div>
+    <p>paragraph</p>
 </body>
 </html>
